@@ -1,9 +1,9 @@
 // Interrupt information
 // 0 on pin 2
-// 1 on pin 3
+// 1 on pin 4
 
 #define encoderI 2
-#define encoderQ 3 // Only use one interrupt in this example
+#define encoderQ 4 // Only use one interrupt in this example
 
 //used for serial output
 const String comma = ",";
