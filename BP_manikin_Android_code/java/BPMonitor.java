@@ -1,7 +1,7 @@
 import android.util.Log;
 
-import com.application.nick.cprdummy.BPUtil.BPManager;
-import com.application.nick.cprdummy.BPUtil.DataPoint;
+import <PACKAGE NAME>.BPUtil.BPManager;
+import <PACKAGE NAME>.BPUtil.DataPoint;
 
 import java.util.ArrayList;
 
